@@ -12,7 +12,6 @@ const getCollapseAnimate = collapsibleContent.animate(
   { 
       delay: 3, 
       duration: 400, 
-      easing: 'ease-out', 
       fill: 'both', 
   } 
 ); 
