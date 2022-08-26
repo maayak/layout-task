@@ -63,8 +63,12 @@ body {
 }
 
 .product-cards__logo {
-  display: flex;
-  flex-wrap: wrap;
+  height: 214px;
+  margin-bottom: 23px;
+}
+
+.product-cards__description {
+  margin-bottom: auto;
 }
 
 .product-cards__logo-stickers {
@@ -100,16 +104,6 @@ body {
   background: #ffcf56;
 }
 
-.product-cards__logo-image {
-  display: flex;
-}
-
-.product-cards__description {
-  position: absolute;
-
-  width: 100%;
-  margin-top: 238px;
-}
 .product-cards__description-title {
   margin-left: 24px;
 
@@ -197,7 +191,8 @@ body {
   }
 
   .product-cards__button {
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 90%;
   }
 }
