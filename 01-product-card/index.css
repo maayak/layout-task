@@ -12,6 +12,7 @@ body {
   font-family: Arial;
   background: #f6f6f6;
 }
+
 .product-cards {
   max-width: 1180px;
   margin: 0 auto;
@@ -61,14 +62,14 @@ body {
 }
 
 .product-cards__logo {
-  height: 214px;
   margin-bottom: 1.438rem;
+  height: 214px;
 }
 
 .product-cards__logo-stickers {
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: 0;
+  left: 0;
 
   display: flex;
   flex-wrap: wrap;
@@ -81,7 +82,7 @@ body {
   line-height: 1.5625em;
   color: #2f2f2f;
 
-  border-radius: 8px;
+  border-radius: 0.5rem;
 }
 
 .product-cards__logo-sticker--new {
