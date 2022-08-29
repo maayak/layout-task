@@ -1,31 +1,31 @@
 body {
-  margin: 0.01em;
+  margin: 0.01rem;
   font-family: sans-serif;
   background: #fff8dc;
 }
 
 .article {
-  margin: 0 auto;
-  padding: 24px;
+  margin: auto;
+  padding: 1.5rem;
   max-width: 680px;
 }
 
 .article__heading {
-  margin: 0 0 1.5rem 0;
+  margin: 0 0 1.5rem;
   color: #db7093;
 }
 
 .article__lead {
+  font: 700 italic 1rem serif;
   text-transform: uppercase;
-  font: 700 italic 1em serif;
 }
 
 .figure {
-  margin: 0 auto;
+  margin: auto;
 }
 
 .figure__caption {
-  text-align: center;
-  margin: 8px 0 0;
+  margin: 0.5rem 0 0;
   font-style: italic;
+  text-align: center;
 }
