@@ -5,9 +5,9 @@ body {
 }
 
 .article {
+  max-width: 680px;
   margin: auto;
   padding: 1.5rem;
-  max-width: 680px;
 }
 
 .article__heading {

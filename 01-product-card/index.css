@@ -52,9 +52,9 @@ body {
   flex-direction: column;
   justify-content: space-between;
 
-  margin: 0 0 1.25rem 1.25rem;
   max-width: 380px;
   height: 482px;
+  margin: 0 0 1.25rem 1.25rem;
 
   background: white;
   border-radius: 0.75rem;
@@ -62,8 +62,8 @@ body {
 }
 
 .product-cards__logo {
-  margin-bottom: 1.438rem;
   height: 214px;
+  margin-bottom: 1.438rem;
 }
 
 .product-cards__logo-stickers {
