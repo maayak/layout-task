@@ -12,6 +12,9 @@ body {
 
 .article__heading {
   margin: 0 0 1.5rem;
+}
+
+.article__heading--verified {
   color: #db7093;
 }
 
